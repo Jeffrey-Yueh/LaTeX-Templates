@@ -5,4 +5,4 @@ This repository is licensed under the Creative Commons Attribution 4.0 Internati
 
 If you use this template in academic work, please acknowledge the source:
 
-Template by Jeffrey Yueh — https://github.com/<your-repo>
+Template by Jeffrey Yueh — https://github.com/Jeffrey-Yueh/LaTeX-Templates
